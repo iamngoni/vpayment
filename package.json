@@ -1,0 +1,25 @@
+{
+  "name": "vpayments-nodejs",
+  "version": "1.0.0",
+  "description": "Simple library for making payments through vpayments system",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamngoni/vpayments-nodejs.git"
+  },
+  "keywords": [
+    "vpayments",
+    "iamngoni",
+    "inbilt",
+    "zimswitch"
+  ],
+  "author": "Ngonidzashe Mangudya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamngoni/vpayments-nodejs/issues"
+  },
+  "homepage": "https://github.com/iamngoni/vpayments-nodejs#readme"
+}
