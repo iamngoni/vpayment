@@ -1,0 +1,1 @@
+export const TRANSACTION_INITIATE_URL: string = "https://secure.zss.co.zw/vpayments/Interface/InitiateTransaction";

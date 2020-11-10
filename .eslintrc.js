@@ -4,6 +4,11 @@ module.exports = {
     ecmaVersion: 2020,
     sourceType: "module"
   },
+  "env": {
+    "es6": true,
+    "browser": true,
+    "node": true
+  },
   extends: [
     "plugin:@typescript-eslint/recommended",
     "prettier/@typescript-eslint",
