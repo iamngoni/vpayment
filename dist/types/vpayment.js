@@ -54,7 +54,7 @@ export default class VPayment {
     }
     /**
      * URL encodes the given string
-     * @param str {String}
+     * @param url {String}
      * @returns {String}
      */
     urlEncode(url) {
